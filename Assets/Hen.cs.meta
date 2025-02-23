@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 06fe56b48f8e3bc49956e5b48587e21a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawner: {instanceID: 0}
+  - egg: {fileID: 8599300373656053707, guid: 46021c253239cd04dbf96f0d7543d5a5, type: 3}
+  - layHere: {fileID: 8910161028791609221, guid: 85417e8dd6e9c01468613ffeac1e3990, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

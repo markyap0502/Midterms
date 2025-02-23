@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 67f7e3dbb0bfb434383525dd60dc772d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - egg: {instanceID: 0}
+  - chick: {instanceID: 0}
+  - spawnHere: {instanceID: 0}
+  - eggText: {instanceID: 0}
+  - chickText: {instanceID: 0}
+  - henText: {instanceID: 0}
+  - roosterText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

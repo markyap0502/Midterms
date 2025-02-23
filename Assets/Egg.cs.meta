@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c2c4c2c9c50ec2745aac24dada350c64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawner: {instanceID: 0}
+  - chick: {instanceID: 0}
+  - hatchhere: {fileID: 8599300373655632875, guid: 46021c253239cd04dbf96f0d7543d5a5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
